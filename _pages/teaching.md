@@ -25,5 +25,5 @@ author_profile: true
 
 * **Fall 2017**: Basic Algorithms ([webpage](https://cs.nyu.edu/courses/fall17/CSCI-UA.0310-005/)), New York University
 
-For earlier teaching, see my [CV](../files/cv.pdf)
+For earlier teaching, see my [CV](http://www.lix.polytechnique.fr/Labo/Gleb.POGUDIN/files/cv.pdf)
 
