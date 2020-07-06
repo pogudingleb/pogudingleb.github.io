@@ -48,9 +48,18 @@ author_profile: true
 
 Задачи:
 
-1. Доказать, что если многочлен степени не более двух от трёх переменных равен нулю во всех точках множества \\( \{ (x_0, y_0, z_0) \mid x_0, y_0, z_0 \in \{0, 1\},\; x_0 + y_0 + z_0 \neq 0\}\\), то он равен нулю и в начале координат.
+1. Доказать, что если многочлен степени не более двух от трёх переменных равен нулю во всех точках множества \\( \\{ (x_0, y_0, z_0) \mid x_0, y_0, z_0 \in \\{0, 1\\},\; x_0 + y_0 + z_0 \neq 0\\}\\), то он равен нулю и в начале координат.
 
 1. \* Правда ли, что любой неотрицательный симметрический многочлен от двух переменных степени не больше четырёх представим в виде суммы квадратов?
 
-Код с демонстрации: [jupyter notebook](http://www.lix.polytechnique.fr/Labo/Gleb.POGUDIN/files/SOS_demo.ipynb), в html формате на посмотреть выложу после занятия.
+Код с демонстрации: [jupyter notebook (если хотите что-то посчитать сами)](http://www.lix.polytechnique.fr/Labo/Gleb.POGUDIN/files/SOS_demo.ipynb), [html (если просто посмотреть)](http://www.lix.polytechnique.fr/Labo/Gleb.POGUDIN/files/SOS_demo.html).
+
 Если у вас возникло желание что-то такое посчитать самим (очень рекомендую), краткое введение в язык Julia и инструкции по установке есть, например, [здесь](https://habr.com/ru/post/423811/). Спрашивайте если что.
+
+Для интересовавшихся доказательством теоремы о бонусной точке: [вот здесь](https://terrytao.wordpress.com/2011/07/15/pappuss-theorem-and-elliptic-curves/) есть недлинное и хорошее (Proposition 1).
+
+## Материалы к занятию 4
+
+Код: [jupyter notebook](http://www.lix.polytechnique.fr/Labo/Gleb.POGUDIN/files/SOS_demo2.ipynb), [html (на посмотреть)](http://www.lix.polytechnique.fr/Labo/Gleb.POGUDIN/files/SOS_demo2.html).
+
+Статья про [гипотезу Визинга](https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%BF%D0%BE%D1%82%D0%B5%D0%B7%D0%B0_%D0%92%D0%B8%D0%B7%D0%B8%D0%BD%D0%B3%D0%B0) [тут](https://arxiv.org/pdf/1901.10288.pdf) (есть ещё [продолжение](https://arxiv.org/abs/2003.04021)).
