@@ -13,3 +13,5 @@ I am an Assistant Professor in [MAX team](http://www.lix.polytechnique.fr/max/ma
 My major **areas of research** are in symbolic computation, algorithms for differential/difference equations, nonlinear algebra, and their applications.
 
 **Address:** office 1006, 1 rue Honoré d'Estienne d'Orves, 91120, Palaiseau, France.
+
+**Open position:** [a one-year postdoc in our team](http://www.lix.polytechnique.fr/Labo/Gleb.POGUDIN/postdoc/) (deadline: December 10, 2020)
