@@ -7,6 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
+* **Fall 2021**: 
+  * CSE101: Computer Programming (lab sessions), &Eacute;cole Polytechnique
+  * CSE303: Computer Science Project (supervised 2 projects), &Eacute;cole Polytechnique
+
 * **Spring 2020**:
   * CSE102: Computer Programming (lab sessions), &Eacute;cole Polytechnique
   * CSE305: Concurrent and Distributed Programming (lab sessions), &Eacute;cole Polytechnique
