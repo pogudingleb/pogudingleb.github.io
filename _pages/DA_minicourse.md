@@ -5,14 +5,7 @@ permalink: /da_minicourse/
 author_profile: true
 ---
 
-Current version of [lecture notes](http://www.lix.polytechnique.fr/Labo/Gleb.POGUDIN/files/da_notes.pdf) (last updated 11.12.2020, 14:30)
-
-Planned meetings (Paris/Leipzig time):
- * **December 17, Thursday, 14:00-16:00**
-
-   *Before the meeting:* take a look at Exercises 2.1-2.5.
-
- * **December 21, Monday, 15:00-17:00**
+Current version of [lecture notes](http://www.lix.polytechnique.fr/Labo/Gleb.POGUDIN/files/da_notes.pdf) (last updated 19.12.2020, 01:30)
 
 Past meetings:
  * **November 26, Thursday**
@@ -27,6 +20,17 @@ Past meetings:
 
  * **December 10, Thursday**
 
-     *Covered during the meeting: Sections 2.1-2.2*
+     *Covered during the meeting:* Sections 2.1-2.2
 
-Those interested in participating should contact Gleb Pogudin or Bernd Sturmfels
+ * **December 17, Thursday, 14:00-16:00**
+
+     *Before the meeting:* take a look at Exercises 2.1-2.6.
+
+     *Covered during the meeting:* Section 2.3
+
+ * **December 21, Monday, 15:00-17:00**
+
+    *Before the meeting:* look at Exercises 2.10-2.12.
+
+    *Covered during the meeting:* Section 3 (to appear in the notes)
+
