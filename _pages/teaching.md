@@ -7,7 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-* **Fall 2021**: 
+* **Spring 2021**:
+  * CSE305: Concurrent and Distributed Programming (lab sessions), &Eacute;cole Polytechnique
+  * INF442: C++ Algorithms for Data Analysis, &Eacute;cole Polytechnique
+
+* **Fall 2020**: 
   * CSE101: Computer Programming (lab sessions), &Eacute;cole Polytechnique
   * CSE303: Computer Science Project (supervised 2 projects), &Eacute;cole Polytechnique
 
