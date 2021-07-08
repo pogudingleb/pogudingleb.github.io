@@ -9,6 +9,8 @@ See more on [my GitHub page](https://github.com/pogudingleb)
 
 {% include base_path %}
 
+- *StructuralIdentifiability.jl: Julia package for assessing structural identifiability*, [code on github](https://github.com/pogudingleb/StructuralIdentifiability.jl)
+
 - *CLUE: software for exact model reduction for ODE models via constrained linear lumping*<br/>
 Based on the paper [CLUE: Exact maximal reduction of kinetic models by constrained lumping of differential equations](https://arxiv.org/abs/2004.11961), [code on github](https://github.com/pogudingleb/CLUE)
 
