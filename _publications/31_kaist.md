@@ -1,11 +1,11 @@
 ---
-title: "Elimination of unknowns for systems of algebraic differential-difference equations"
+title: "Bit-complexity of solving systems of linear evolutionary partial differential equations"
 collection: publications
-permalink: 'https://doi.org/10.1090/tran/8219'
-venue: "Transactions of American Mathematical Society, 2020"
+permalink: 'https://doi.org/10.1007/978-3-030-79416-3_13'
+venue: "Computer Science in Russia (CSR), 2021"
 paperurl:
-arxiv: 'https://arxiv.org/abs/1812.11390'
-coauthors: "Li W., Ovchinnikov A., and Scanlon T."
+arxiv: ''
+coauthors: "Koswara I., Selivanova S., and Ziegler M."
 ---
 
 
